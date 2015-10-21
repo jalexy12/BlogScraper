@@ -4,6 +4,7 @@ require 'open-uri'
 require 'awesome_print'
 require 'pry'
 
+# puts "Don't delete this Nizar...how many times do I have to tell you."
 class BlogParser
   def initialize(url)
     @url = url
